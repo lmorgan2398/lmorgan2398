@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lmorgan2398
 - 👀 I’m interested in web development and game development.
 - 🌱 I’m currently learning HTML/CSS/JS.
-- 💞️ I’m looking to collaborate on nothing as of yet; TBD.
+- 💞️ I’m looking to collaborate on any simple web development projects I can get my hands on--if you want to work together, reach out!
 - 📫 How to reach me: email me at lmorgan2398@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Currently a K-12 music teacher.
